@@ -1,27 +1,37 @@
-## First Name Last Name
+## John Levitt
 
-### Term Year 
+### Spring 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to Data Science
 
-- Course 2
+- Intro to Python
 
-- Course 3
+- Strategic Management
 
-- Course 4
+- Lean Management
+
+- Operations Research
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- MMA
 
-- Thing 2
+- Music
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Cooking as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+Here is a local image:
+
+![data network](dataNetwork.jpg)
+
+Here is a image from the web:
+
+![IST](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffloridapoly.edu%2Fnews%2Farticles%2F2020%2F10%2Fassets%2F1014-gradstudentrecruitment.jpg&f=1&nofb=1)
+
+> Last modified: 2022/01/25
